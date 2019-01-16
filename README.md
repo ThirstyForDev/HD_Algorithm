@@ -23,5 +23,14 @@ HungryDev_Algorithm
   - 회고
 
 <hr>
+
+# Algorithm
+
 2018-11-17
 
+
+# Small Project
+
+## 2019-01-16
+
+- [S_Proj] Guessing Number
