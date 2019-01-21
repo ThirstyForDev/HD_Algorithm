@@ -6,7 +6,7 @@ import requests
 
 
 class SlackMessage():
-    slack_url = "https://hooks.slack.com/services/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"  # noqa
+    slack_url = "your slack url"
 
     def __init__(self):
         pass
